@@ -8,14 +8,6 @@ This repository documents my journey of building one new project every single da
 
 To maintain consistent programming discipline by delivering one complete project daily. This challenge pushes creative boundaries, reinforces problem solving skills, and builds a diverse portfolio of work.
 
-## About This Repository
-
-This collection showcases projects built in two primary languages that make up the core of this work:
-
-**C++** makes up 70.7% of the repository. These projects focus on systems programming, performance critical applications, data structures, and algorithm implementations. C++ projects emphasize efficiency and deep technical understanding.
-
-**Python** comprises 29.3% of the repository. These projects range from automation scripts, data analysis tools, web applications, and machine learning experiments. Python projects prioritize rapid prototyping and practical solutions.
-
 ## How It Works
 
 Each day a new project is created and committed to this repository. Projects vary in scope and complexity but follow a simple principle: completion within one day. This approach encourages:
@@ -29,7 +21,7 @@ Each day a new project is created and committed to this repository. Projects var
 
 Each project directory contains:
 
-1. Source code in either C++ or Python
+1. Source code in either C++, Python or any other language
 2. A brief description of the project goal
 3. Instructions on how to build or run the project
 4. Any relevant documentation or notes
